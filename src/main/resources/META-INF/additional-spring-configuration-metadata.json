@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "wechat.mpAppId",
+      "type": "java.lang.String",
+      "description": "Description for wechat.mpAppId."
+    },
+    {
+      "name": "wechat.mpAppSectet",
+      "type": "java.lang.String",
+      "description": "Description for wechat.mpAppSectet."
+    },
+    {
+      "name": "wechat.KeyPath",
+      "type": "java.lang.String",
+      "description": "Description for wechat.KeyPath."
+    }
+  ] }
